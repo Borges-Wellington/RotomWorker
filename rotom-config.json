@@ -1,0 +1,27 @@
+{
+  "rotom": {
+    "worker_endpoint": "ws://92.112.179.132:7070",
+    "device_endpoint": "ws://92.112.179.132:7070/control",
+    "secret": "@Borges1448",
+    "use_compression": true
+  },
+  "general": {
+    "device_name": "GalaxyM52",
+    "workers": 3,
+    "dns_server": "1.1.1.1:53",
+    "scan_dir": "/data/data/com.nianticlabs.pokemongo/cache"
+  },
+  "log": {
+    "level": "info",
+    "use_colors": true,
+    "log_to_file": true,
+    "max_size": 10,
+    "max_backups": 10,
+    "max_age": 30,
+    "compress": true,
+    "file_path": "/data/local/tmp/rotom-worker.log"
+  },
+  "tuning": {
+    "worker_spawn_delay_ms": 200
+  }
+}
