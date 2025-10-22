@@ -6,7 +6,7 @@
     "use_compression": true
   },
   "general": {
-    "device_name": "GalaxyM52",
+    "device_name": "GalaxyM52-Lab",
     "workers": 3,
     "dns_server": "1.1.1.1:53",
     "scan_dir": "/data/data/com.nianticlabs.pokemongo/cache"
