@@ -42,7 +42,7 @@
 #include "proto_gen/rotom.pb.h" // gerado a partir do rotom.proto
 
 // third-party
-#include <nlohmann/json.hpp>
+#include "json.hpp"
 
 // websocketpp + asio (standalone)
 #include <websocketpp/config/asio_no_tls_client.hpp>
