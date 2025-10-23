@@ -35,7 +35,7 @@ $TOOLCHAIN/bin/aarch64-linux-android24-clang++ \
   $PROTOBUF_DIR/third_party/utf8_range/utf8_range.c \
   \
   # ======= PROTOBUF =======
- # $PROTOBUF_DIR/build_android/libprotobuf.a \
+  $PROTOBUF_DIR/build_android/libprotobuf.a \
  # $PROTOBUF_DIR/build_android/libprotobuf-lite.a \
  # \
   # ======= ABSEIL (ordem real) =======
