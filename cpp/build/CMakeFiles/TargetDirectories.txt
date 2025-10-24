@@ -1,0 +1,3 @@
+/home/user/Documentos/Wellington/Lab/RotomWorker/cpp/build/CMakeFiles/hookbridge.dir
+/home/user/Documentos/Wellington/Lab/RotomWorker/cpp/build/CMakeFiles/edit_cache.dir
+/home/user/Documentos/Wellington/Lab/RotomWorker/cpp/build/CMakeFiles/rebuild_cache.dir
